@@ -82,3 +82,4 @@ IEEE Signal Processing Letters, vol. 25, no. 6, pp. 758-762, 2018.
     Operation: a. Clear all figures and variables in the memory;
                b. Specify totalframe=60;
                c. Call function featurebasedtracking to compute outputs;
+# textureclassification_CLDP_ICIP2016
