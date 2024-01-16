@@ -1,4 +1,4 @@
-# texturetracking_SPL2018
+# texturetracking_SPL2018.
 Feature-based Tracking Method for High-speed Vision System (Version 1.0)
 
 Copyright: 2018/09/24, Yuting Hu
